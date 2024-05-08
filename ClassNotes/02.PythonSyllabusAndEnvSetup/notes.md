@@ -1,27 +1,57 @@
 # Python Syllabus
 
-## Basics of Python
-- Introduction to Python
-- Setting up Python environment
-- Variables and Data Types
-- Operators
-- Control Flow
+1. Variables and Data Types
+   - Introduction to Python
+   - Variables and Constants
+   - Numeric Data Types
+   - Strings
+   - Lists
+   - Tuples
+   - Dictionaries
+   - Sets
 
-## Intermediate Python
-- Loops
-- Lists, Tuples, and Dictionaries
-- Functions
-- Modules
-- Error Handling
-- Input/Output
+2. Operators
+   - Arithmetic Operators
+   - Comparison Operators
+   - Logical Operators
+   - Assignment Operators
+   - Bitwise Operators
+   - Membership Operators
+   - Identity Operators
 
-## Advanced Python
-- File I/O
-- Object-Oriented Programming
-- Working with Libraries
-- GUI Programming
-- Regular Expressions
-- Working with Databases
+3. Control Flow
+   - Conditional Statements (if, elif, else)
+   - Loops (for, while)
+   - Loop Control Statements (break, continue, pass)
+   - Nested Loops
+   - Control Flow with Lists and Dictionaries
+
+4. Functions
+   - Defining Functions
+   - Function Arguments
+   - Return Statement
+   - Lambda Functions
+   - Recursive Functions
+   - Scope and Lifetime of Variables
+
+5. Modules
+   - Importing Modules
+   - Creating and Using Modules
+   - Standard Library Modules
+   - Third-Party Modules
+
+6. Error Handling
+   - Exception Handling (try, except, finally)
+   - Handling Specific Exceptions
+   - Raising Exceptions
+   - Custom Exception Classes
+
+7. Input/Output
+   - Reading Input from Users
+   - File Handling (Opening, Reading, Writing, Closing Files)
+   - Working with Text and Binary Files
+   - Error Handling in File Operations
+
 
 # Environment Setup
 
